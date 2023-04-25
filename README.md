@@ -15,3 +15,8 @@ Besedilo lahko tudi ~~prečrtamo~~ (Alt Gr + 1 = ~) alo pa ga oblikujemo kot kod
 def f(x):
     return 21
 ...
+
+
+# Avtorji
+
+:)
