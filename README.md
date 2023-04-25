@@ -14,7 +14,7 @@ kot kodo:
 
 ```
 def f(x):
-    return 21
+    return 21 + x
 ```
 
 # Avtorji
